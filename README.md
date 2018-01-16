@@ -45,4 +45,7 @@ Does Simulationism align with reincarnation? Are our code/bits/processing power 
 - The Developer(s) = God
 - `/dev/null` = hell (doesn't "dev null" kinda sound like "devil?")
 
-see: the [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+### See also:
+
+- The [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+- this [discussion on Reddit](https://www.reddit.com/r/DebateAnAtheist/comments/7ipuru/simulationism/)
