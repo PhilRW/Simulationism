@@ -47,5 +47,7 @@ Does Simulationism align with reincarnation? Are our code/bits/processing power 
 
 ### See also:
 
-- The [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+- the [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 - this [discussion on Reddit](https://www.reddit.com/r/DebateAnAtheist/comments/7ipuru/simulationism/)
+- [Are You Living in a Computer Simulation?](https://www.simulation-argument.com/simulation.html)
+
